@@ -40,10 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-[![](https://drive.google.com/file/d/1Rep2-ejOfFLK0MlDuMA8WtDwwmWF4wIm/view?usp=sharing.png)](https://drive.google.com/file/d/1Rep2-ejOfFLK0MlDuMA8WtDwwmWF4wIm/view?usp=sharing)
+https://drive.google.com/file/d/1Rep2-ejOfFLK0MlDuMA8WtDwwmWF4wIm/view?usp=sharing
 
 
 ## Notes
