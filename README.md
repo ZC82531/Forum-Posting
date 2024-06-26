@@ -1,10 +1,8 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project
 
-Submitted by: **Your Name Here**
+Submitted by: Zakaria Chowdhury
 
-This web app: **insert description**
-
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
